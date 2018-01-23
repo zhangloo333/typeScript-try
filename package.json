@@ -1,0 +1,23 @@
+{
+  "name": "typescript-try",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "lite-server"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://zhangloo333@github.com/zhangloo333/typeScript-try.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/zhangloo333/typeScript-try/issues"
+  },
+  "homepage": "https://github.com/zhangloo333/typeScript-try#readme",
+  "devDependencies": {
+    "lite-server": "^2.3.0"
+  }
+}
